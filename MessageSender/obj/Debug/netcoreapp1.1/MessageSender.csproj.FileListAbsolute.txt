@@ -1,0 +1,6 @@
+C:\Sandboxes\DocumentDbDemo\MessageSender\bin\Debug\netcoreapp1.1\MessageSender.deps.json
+C:\Sandboxes\DocumentDbDemo\MessageSender\bin\Debug\netcoreapp1.1\MessageSender.runtimeconfig.json
+C:\Sandboxes\DocumentDbDemo\MessageSender\bin\Debug\netcoreapp1.1\MessageSender.runtimeconfig.dev.json
+C:\Sandboxes\DocumentDbDemo\MessageSender\bin\Debug\netcoreapp1.1\MessageSender.dll
+C:\Sandboxes\DocumentDbDemo\MessageSender\obj\Debug\netcoreapp1.1\MessageSender.csprojResolveAssemblyReference.cache
+C:\Sandboxes\DocumentDbDemo\MessageSender\obj\Debug\netcoreapp1.1\MessageSender.AssemblyInfo.cs

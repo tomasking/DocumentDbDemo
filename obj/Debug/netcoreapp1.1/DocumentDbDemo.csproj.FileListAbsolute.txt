@@ -1,0 +1,9 @@
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\bin\Debug\netcoreapp1.1\DocumentDbDemo.deps.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\bin\Debug\netcoreapp1.1\DocumentDbDemo.runtimeconfig.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\bin\Debug\netcoreapp1.1\DocumentDbDemo.runtimeconfig.dev.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\bin\Debug\netcoreapp1.1\DocumentDbDemo.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\bin\Debug\netcoreapp1.1\DocumentDbDemo.pdb
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\obj\Debug\netcoreapp1.1\DocumentDbDemo.csprojResolveAssemblyReference.cache
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\obj\Debug\netcoreapp1.1\DocumentDbDemo.AssemblyInfo.cs
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\obj\Debug\netcoreapp1.1\DocumentDbDemo.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo\obj\Debug\netcoreapp1.1\DocumentDbDemo.pdb

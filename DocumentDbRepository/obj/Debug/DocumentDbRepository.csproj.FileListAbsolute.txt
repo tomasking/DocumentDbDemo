@@ -1,0 +1,9 @@
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Santhos.DocumentDb.Repository.dll.config
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Santhos.DocumentDb.Repository.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Santhos.DocumentDb.Repository.pdb
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Newtonsoft.Json.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\bin\Debug\Newtonsoft.Json.xml
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\obj\Debug\Santhos.DocumentDb.Repository.dll
+C:\Sandboxes\DocumentDbDemo\DocumentDbRepository\obj\Debug\Santhos.DocumentDb.Repository.pdb

@@ -1,0 +1,5 @@
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo.Tests\bin\x64\Debug\netcoreapp1.1\DocumentDbDemo.Tests.deps.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo.Tests\bin\x64\Debug\netcoreapp1.1\DocumentDbDemo.Tests.runtimeconfig.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo.Tests\bin\x64\Debug\netcoreapp1.1\DocumentDbDemo.Tests.runtimeconfig.dev.json
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo.Tests\obj\x64\Debug\netcoreapp1.1\DocumentDbDemo.Tests.AssemblyInfo.cs
+C:\Sandboxes\DocumentDbDemo\DocumentDbDemo.Tests\obj\x64\Debug\netcoreapp1.1\DocumentDbDemo.Tests.csprojResolveAssemblyReference.cache
